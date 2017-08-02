@@ -10,4 +10,4 @@ c2 = float(input('Cateto adjacente: '))
 hipo = (math.pow(c1, 2) + math.pow(c2, 2))
 hipo = math.sqrt(hipo)
 
-print('Hipotenusa = {}'.format(hipo))
+print('Hipotenusa = {:.2f}'.format(hipo))
