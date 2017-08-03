@@ -1,3 +1,3 @@
 # doknow
 
-I'm thinking about it.
+The best language ever
